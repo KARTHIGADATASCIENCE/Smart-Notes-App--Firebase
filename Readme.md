@@ -19,9 +19,6 @@ A simple, Firebase-powered notes app where users can:
 - User-specific notes (secure)
 - Responsive design
 
-## 📷 Preview
-![Screenshot](preview.png) <!-- Add an actual screenshot if you'd like -->
-
 ## 🤝 Let's Connect
 Feel free to star ⭐ or fork 🍴 the repo if you like it!
 
