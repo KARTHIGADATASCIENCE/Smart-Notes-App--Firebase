@@ -24,4 +24,4 @@ Feel free to star ⭐ or fork 🍴 the repo if you like it!
 
 ---
 
-Made  by [KARTHIGADATASCIENCE](https://github.com/KARTHIGADATASCIENCE)
+Made  by [Karthiga Alias Amali](https://github.com/KARTHIGADATASCIENCE)
